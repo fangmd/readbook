@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="9bfa4fc9-6251-4e6d-baa6-cdc9c98890a8"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.26.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>一日三秋</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>一日三秋</text>
+      </navLabel>
+      <content src="text/part0000.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>第1章</text>
+      </navLabel>
+      <content src="text/part0001.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>第2章</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>第3章</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5" class="chapter">
+      <navLabel>
+        <text>第4章</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6" class="chapter">
+      <navLabel>
+        <text>第5章</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7" class="chapter">
+      <navLabel>
+        <text>第6章</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8" class="chapter">
+      <navLabel>
+        <text>第7章</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9" class="chapter">
+      <navLabel>
+        <text>第8章</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10" class="chapter">
+      <navLabel>
+        <text>第9章</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11" class="chapter">
+      <navLabel>
+        <text>第10章</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12" class="chapter">
+      <navLabel>
+        <text>第11章</text>
+      </navLabel>
+      <content src="text/part0011.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13" class="chapter">
+      <navLabel>
+        <text>第12章</text>
+      </navLabel>
+      <content src="text/part0012.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14" class="chapter">
+      <navLabel>
+        <text>第13章</text>
+      </navLabel>
+      <content src="text/part0013.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15" class="chapter">
+      <navLabel>
+        <text>第一章 当年</text>
+      </navLabel>
+      <content src="text/part0014.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16" class="chapter">
+      <navLabel>
+        <text>第二章 二十年后</text>
+      </navLabel>
+      <content src="text/part0015.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17" class="chapter">
+      <navLabel>
+        <text>第三章 又二十年后</text>
+      </navLabel>
+      <content src="text/part0016.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18" class="chapter">
+      <navLabel>
+        <text>第14章</text>
+      </navLabel>
+      <content src="text/part0017.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19" class="chapter">
+      <navLabel>
+        <text>第15章</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

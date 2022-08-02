@@ -1,0 +1,63 @@
+.calibre {
+    display: block;
+    font-family: "cnepub", serif;
+    font-size: 1em;
+    line-height: 130%;
+    text-align: justify;
+    margin: 0 5pt;
+    padding: 0% 0
+    }
+.calibre1 {
+    display: block;
+    font-family: "cnepub", serif;
+    line-height: 130%;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.calibre2 {
+    display: block;
+    line-height: 130%;
+    text-align: justify;
+    text-indent: 2em;
+    margin: 1em 0
+    }
+.calibre3 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 1em 0
+    }
+.calibre4 {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre6 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre7 {
+    display: list-item;
+    list-style-type: none
+    }
+.calibre8 {
+    text-decoration: none
+    }
+.pcalibre:hover {
+    color: red
+    }

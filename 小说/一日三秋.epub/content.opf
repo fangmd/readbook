@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>zh</dc:language>
+    <dc:title>一日三秋</dc:title>
+    <dc:creator opf:file-as="刘震云" opf:role="aut">刘震云</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>小说《一日三秋》引用民间“花二娘”的传说，以想象的故事描述“我”记忆中的六叔生前所画的画作，探讨延津人幽默的本质。
+
+从两米见方的剧团人物群像素描中挑出陈长杰、李延生、樱桃，围绕几位主人公身边出现的人物，有开车的、扫大街的、开饭馆的，串联起几个家庭的人生经历和故事，把世人被忘却的情感和心事复刻出来。后引出寻常父子二人遍尝生活辛酸后对人生至理的了悟，在不同时间和地点悟出：一个重要的的瞬间，在人生中犹如一日三秋，但这瞬间永不再来。
+
+小说充满了黑色幽默，世俗生活所包含的哲理，及打破日常生活壁垒的想象力。刘震云写出现实与想象中的人性、土地、命运。既是幽默，也是讽刺；既是魔幻，也是现实。</dc:description>
+    <dc:publisher>花城出版社</dc:publisher>
+    <dc:identifier opf:scheme="MOBI-ASIN">07cd5949-feb7-41b6-b7ce-505240573d98</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9bfa4fc9-6251-4e6d-baa6-cdc9c98890a8</dc:identifier>
+    <dc:identifier opf:scheme="calibre">9bfa4fc9-6251-4e6d-baa6-cdc9c98890a8</dc:identifier>
+    <dc:subject>都市生活</dc:subject>
+    <dc:date>2021-09-27T16:00:00+00:00</dc:date>
+    <dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com分享交流海量电子书。
+epubBuilder仅供交流使用，未经授权，不得用于商业用途。</dc:rights>
+    <meta name="calibre:timestamp" content="2021-10-12T12:57:31+00:00"/>
+    <meta name="calibre:title_sort" content="一日三秋"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="text/part0000.html" media-type="application/xhtml+xml"/>
+    <item id="id7" href="text/part0001.html" media-type="application/xhtml+xml"/>
+    <item id="id8" href="text/part0002.html" media-type="application/xhtml+xml"/>
+    <item id="id9" href="text/part0003.html" media-type="application/xhtml+xml"/>
+    <item id="id10" href="text/part0004.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="text/part0005.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="text/part0006.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="text/part0007.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="text/part0008.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="text/part0009.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="text/part0010.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="text/part0011.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="text/part0012.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="text/part0013.html" media-type="application/xhtml+xml"/>
+    <item id="id20" href="text/part0014.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="text/part0015.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="text/part0016.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="text/part0017.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="text/part0018.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="text/part0019.html" media-type="application/xhtml+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="page_css1" href="page_styles1.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+  </spine>
+  <guide>
+    <reference type="toc" href="text/part0019.html#I3QM1-30a97cf3c2ce4c3e8a9cf41ba843ed0f" title="Table of Contents"/>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>
